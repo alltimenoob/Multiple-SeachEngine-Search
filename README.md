@@ -4,7 +4,7 @@
 
 - Set it as homepage
 
-![wPf0chr - Imgur](https://user-images.githubusercontent.com/54467382/88281259-34bd3100-cc9c-11ea-826a-ab05fa69c4b1.gif)
+![NswXpDE](https://user-images.githubusercontent.com/54467382/88281613-dc3a6380-cc9c-11ea-9ee0-39704634e3f5.gif)
 
 ## Reason for making this
 
