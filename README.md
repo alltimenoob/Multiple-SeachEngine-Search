@@ -4,7 +4,7 @@
 
 - Set it as homepage
 
-![Screenshot_20200723-121929298](https://user-images.githubusercontent.com/54467382/88279519-0f7af380-cc99-11ea-8558-cdea14761afa.jpg)
+![Screenshot_20200723-121929298](https://user-images.githubusercontent.com/54467382/88279746-6da7d680-cc99-11ea-9ed0-0daefbeb7e32.jpg)
 
 
 ## Reason for making this
