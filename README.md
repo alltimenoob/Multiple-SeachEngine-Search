@@ -2,6 +2,8 @@
 
 ##### Let's you search from google as well as duck duck go 
 
+## Almost anyone can do this
+
 - Set it as homepage
 
 ![NswXpDE](https://user-images.githubusercontent.com/54467382/88281613-dc3a6380-cc9c-11ea-9ee0-39704634e3f5.gif)
